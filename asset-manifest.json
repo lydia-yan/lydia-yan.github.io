@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b14dabcd.css",
+    "main.js": "/static/js/main.e367686e.js",
+    "static/media/BreedFinder.png": "/static/media/BreedFinder.ec1d01f812861572b19f.png",
+    "static/media/photo.png": "/static/media/photo.bd0c39ee147a5c95896e.png",
+    "static/media/Summailize.png": "/static/media/Summailize.bf61f383a9a46d6617b8.png",
+    "static/media/bookmark.png": "/static/media/bookmark.b5ca7a5a6f69b31504c7.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/static/media/logo.e53019346b274f7fc747130e95138847.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.d5803f4cffcf48002ebc9d70a8b63df6.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.b14dabcd.css.map": "/static/css/main.b14dabcd.css.map",
+    "main.e367686e.js.map": "/static/js/main.e367686e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b14dabcd.css",
+    "static/js/main.e367686e.js"
+  ]
+}
