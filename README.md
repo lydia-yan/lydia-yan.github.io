@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# 🌟 Moyan Lin - Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive personal portfolio website built with React.
 
-## Available Scripts
+🔗 **Live Demo**: [https://lydia-yan.github.io/](https://lydia-yan.github.io/)
 
-In the project directory, you can run:
+![React](https://img.shields.io/badge/React-18.x-blue) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🎨 **Modern Design** - Clean UI with smooth animations
+- 📱 **Responsive** - Optimized for all devices  
+- ⚡ **Dynamic Typing** - Auto-rotating role descriptions
+- 🛠️ **Skills Showcase** - Interactive carousel with programming languages
+- 📂 **Project Portfolio** - Timeline and card view modes
+- 📞 **Contact Form** - Functional contact with social links
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Tech Stack
 
-### `npm test`
+- **Frontend**: React 18, React Bootstrap, Animate.css
+- **Styling**: Custom CSS, Bootstrap 5, Google Fonts
+- **Tools**: React Multi Carousel, EmailJS, Create React App
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Quick Start
 
-### `npm run build`
+```bash
+# Clone repository
+git clone https://github.com/lydia-yan/personal-portfolio.git
+cd personal-portfolio
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Install dependencies
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Start development server
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Open [http://localhost:3000](http://localhost:3000) to view in browser.
 
-### `npm run eject`
+## 📂 Project Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+src/
+├── components/     # React components
+├── assets/        # Images and fonts
+├── App.js         # Main App component
+└── App.css        # Global styles
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Build & Deploy
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm run build
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Deploy the `build` folder to any static hosting service.
 
-## Learn More
+## 📧 Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Moyan Lin**
+- 🐱 GitHub: [https://github.com/lydia-yan](https://github.com/lydia-yan)
+- 🌐 Portfolio: [https://lydia-yan.github.io/](https://lydia-yan.github.io/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Built with ❤️ by Moyan Lin
