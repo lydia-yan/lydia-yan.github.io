@@ -1,0 +1,27 @@
+<svg width="140" height="45" viewBox="0 0 140 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient definitions -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ff9999;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffb3b3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff9999;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#ff9999;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background decorative elements -->
+  <circle cx="15" cy="20" r="6" fill="url(#accentGradient)" opacity="0.5"/>
+  <circle cx="125" cy="25" r="4" fill="url(#accentGradient)" opacity="0.4"/>
+  
+  <!-- Code brackets - sleek and elegant -->
+  <path d="M10 15L5 22.5L10 30" stroke="#ff9999" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7"/>
+  <path d="M130 15L135 22.5L130 30" stroke="#ff9999" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7"/>
+  
+  <!-- Main text "Moyan" - using Dancing Script artistic font -->
+  <text x="70" y="28" font-family="'Dancing Script', cursive" font-size="26" font-weight="600" text-anchor="middle" fill="url(#textGradient)">Moyan</text>
+  
+  
+</svg>
